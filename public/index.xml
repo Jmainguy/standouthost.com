@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Standouthost.com</title>
+    <link>https://standouthost.com/</link>
+    <description>Recent content on Standouthost.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    
+	<atom:link href="https://standouthost.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About standouthost.com</title>
+      <link>https://standouthost.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://standouthost.com/about/</guid>
+      <description>Standouthost was a game hosting business I ran to pay for the physical server my minecraft community had grown into. I started the community in my Silver Spring apartment on a laptop, eventually moved it to a few virtual servers, before the need to go big and get a physical server with Hetzner in germany. We didnt need the entire server so it made sense to spin up a company and rent the rest of the server to pay for what we needed.</description>
+    </item>
+    
+  </channel>
+</rss>
